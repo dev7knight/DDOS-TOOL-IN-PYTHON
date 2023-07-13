@@ -34,7 +34,7 @@ DDDDDDDDDDDDD      DDDDDDDDDDDDD             OOOOOOOOO      SSSSSSSSSSSSSSS
 """)
 
 print('Made By Dev7knight')
-print('<------Discord : Dev7knight#3939 ------>')
+print('<------Discord : Dev7knight------>')
 url = input("Enter URL>> ")
  
 try:
